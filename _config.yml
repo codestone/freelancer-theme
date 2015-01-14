@@ -3,20 +3,20 @@ title: Codestone
 email: info@codestone.nl
 
 #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-description: "Codestone - Android App Development - Community and event management"
+description: "Codestone - Android App Development - Community Building"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 3893F0 #80B3FF
-  secondary: 206BC6 #FD6E8A
-  secondary-dark: 00579A #A2122F
+  primary: 99CC00 #80B3FF
+  secondary: 77AA00 #FD6E8A
+  secondary-dark: 669900 #A2122F
   
 # Footer settings
 footer:
   copyright: Codestone
   location: Contact
   social: Around the Web
-  credits: Credits
+  credits: Company Info
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -39,7 +39,7 @@ address:
   - line: The Netherlands
 
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'e-mail: info@codestone.nl<br/>KvK: 34381941<br/>BTW nr: NL1835.15.055.B01<br/><a href="/algemene-voorwaarden-codestone.pdf" class="btn btn-lg btn-outline"><i class="fa fa-download"></i> Terms &amp; Conditions (in Dutch)</a>'
 
 # Build settings
 markdown: kramdown
