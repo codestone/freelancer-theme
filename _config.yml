@@ -20,16 +20,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jowipe
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/9707/johan-pelgrim
-  - title: bitbucket 
-    url: http://bitbucket.org/jpelgrim
-  - title: github
-    url: http://github.com/jpelgrim
   - title: google-plus
     url: http://google.com/+JohanPelgrim
+  - title: twitter
+    url: http://twitter.com/jowipe
+  - title: linkedin
+    url: https://www.linkedin.com/in/johanpelgrim
+  - title: group
+    url: http://www.dutchaug.org
+  - title: github
+    url: http://github.com/jpelgrim
 
 # Postal address (add as many lines as necessary)
 address:
