@@ -2,6 +2,7 @@
 layout: default
 modal-id: 3
 date: 2012-08-01
+title: M50
 img: m50.png
 alt: image-alt
 project-date: August 2012

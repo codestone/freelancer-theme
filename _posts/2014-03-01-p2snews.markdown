@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
+title: Point2Share News
 img: p2snews.png
 alt: image-alt
 project-date: March 2014

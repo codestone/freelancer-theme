@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 date: 2012-07-17
+title: Bluesound
 img: bluesound.png
 alt: image-alt
 project-date: Januari 2012

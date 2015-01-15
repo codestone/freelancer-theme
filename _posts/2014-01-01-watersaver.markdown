@@ -2,6 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-01-01
+title: Watersaver
 img: watersaver.png
 alt: image-alt
 project-date: January 2014

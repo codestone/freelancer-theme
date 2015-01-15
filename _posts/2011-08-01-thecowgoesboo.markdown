@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2011-08-01
+title: The Cow Goes Boo
 img: thecowgoesboo.png
 alt: image-alt
 project-date: August 2011
