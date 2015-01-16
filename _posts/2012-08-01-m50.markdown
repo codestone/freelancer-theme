@@ -8,6 +8,8 @@ alt: image-alt
 project-date: August 2012
 client: Lenbrook
 category: Android App Development
-description: The M50 Android app is similar to the Bluesound Android app, but has a different skin (a lighter look-and-feel, where the Bluesound Android app is pretty dark, like the Bluesound brand). I suggested using the sliding menu pattern for navigation. And since the Navigation Drawer was not available at the time I used at the time was Jeremy Feinstein's SlidingMenu library, which worked fine as well. In fact, I used it on both sides (on request of the client). The menu on the right is used for music player discovery, which is done via multicast DNS (mDNS), which is fully compatible with Apple's Bonjour service on the Mac.
 
 ---
+
+### Same app, different look and feel.
+The M50 Android app is similar to the Bluesound Android app, but has a different skin (a lighter look-and-feel, where the Bluesound Android app is pretty dark, like the Bluesound brand). I suggested using the sliding menu pattern for navigation. And since the Navigation Drawer was not available at the time I used at the time was Jeremy Feinstein's SlidingMenu library, which worked fine as well. In fact, I used it on both sides (on request of the client). The menu on the right is used for music player discovery, which is done via multicast DNS (mDNS), which is fully compatible with Apple's Bonjour service on the Mac.

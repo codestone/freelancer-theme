@@ -8,6 +8,8 @@ alt: image-alt
 project-date: November 2013
 client: Technische Unie
 category: Android App Development
-description: The TU Trance Android app was initiated by the Young TU group within the Technische Unie. It basically is a Track&Trace app for customers of the Technische Unie. I was responsible for setting up the app architecture, development and Android training of Technische Unie personell in a period of 6 weeks.
 
 ---
+
+### Architecture, development and training in 6 weeks
+The TU Trace Android app was initiated by the Young TU group within the Technische Unie. It basically is a Track&Trace app for customers of the Technische Unie. I was responsible for setting up the app architecture, development and Android training of Technische Unie personell in a period of 6 weeks.

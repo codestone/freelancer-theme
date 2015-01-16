@@ -212,6 +212,24 @@ section.success {
     max-width: 400px;
 }
 
+.portfolio-item .grow {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    transform: scale(0.9);
+}
+
+.portfolio-item .grow:hover {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    transform: scale(1);
+}
+
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;

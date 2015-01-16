@@ -8,6 +8,11 @@ alt: image-alt
 project-date: August 2011
 client: VX Company
 category: Workshops
-description: Since August 2011 I've been giving Android Workshop for beginners. I've since then given this workshop about 10 ten times and still host them yearly at <a href="http://apprilfestival.com/events/android-beginners-workshop/">Appril</a>.
 
 ---
+
+###Anno 2011
+Since August 2011 I've been giving Android Workshop for beginners. I've since then given this workshop about 10 ten times and still host them yearly at [Appril](http://apprilfestival.com/events/android-beginners-workshop/).
+
+###Workshop on-line and free!
+The workshop content is freely available [here](https://github.com/dutchaug/beginners-workshop/blob/master/README.md) if you want to see what the workshop is all about.

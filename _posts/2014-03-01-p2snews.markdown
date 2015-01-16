@@ -8,6 +8,8 @@ alt: image-alt
 project-date: March 2014
 client: VX Company
 category: Android App Development
-description: <a href="http://news.point2share.nl/">Point2Share News</a> is an Intranet News app. A white labeled app which can hook-in to a company's SharePoint Intranet environment to publish the latest company news to their employees.
 
 ---
+
+### White label enterprise news app
+[Point2Share News](http://news.point2share.nl/) is an Intranet News app. A white labeled app which can hook-in to a company's SharePoint Intranet environment to publish the latest company news to their employees.
