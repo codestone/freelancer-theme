@@ -7,9 +7,9 @@ description: "Codestone - Android App Development - Community Building"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 99CC00 #80B3FF
-  secondary: 77AA00 #FD6E8A
-  secondary-dark: 669900 #A2122F
+  primary: 669900 #80B3FF
+  secondary: 558800 #FD6E8A
+  secondary-dark: 447700 #A2122F
   
 # Footer settings
 footer:
