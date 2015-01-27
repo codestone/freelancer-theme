@@ -16,3 +16,5 @@ The Watersaver Android app is a native client wrapper, which serves HTML5 conten
 
 ### Custom keyboard
 One of the fun bits of this project was that I had to create a custom keyboard in Android to make a super fast water meter level editing experience for the users.
+
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=nl.oasen.watersaver)

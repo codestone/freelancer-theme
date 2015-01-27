@@ -13,3 +13,5 @@ category: Android App Development
 
 ### White label enterprise news app
 [Point2Share News](http://news.point2share.nl/) is an Intranet News app. A white labeled app which can hook-in to a company's SharePoint Intranet environment to publish the latest company news to their employees.
+
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.vxcompany.p2s.news)

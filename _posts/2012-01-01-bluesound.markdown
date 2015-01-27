@@ -22,3 +22,5 @@ All your favourite music in one place, with one remote controller, that was the 
 
 ### Rewritten from scratch
 The Bluesound vision and project started years ago. I was contacted to pick-up the project, where another team could not deliver. I've rewritten the app from scratch and introduced the Android Design patterns as much as I could, and as much as that would fit Lenbrook's vision with the Bluesound client apps.
+
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.lenbrook.sovi.bluesound)
