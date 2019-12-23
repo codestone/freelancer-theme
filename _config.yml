@@ -39,7 +39,7 @@ address:
   - line: The Netherlands
 
 # Credits content
-credits: 'e-mail: info@codestone.nl<br/>KvK: 34381941<br/>BTW nr: NL1835.15.055.B01<br/><a href="/algemene-voorwaarden-codestone.pdf" class="btn btn-lg btn-outline"><i class="fa fa-download"></i> Terms &amp; Conditions (in Dutch)</a>'
+credits: 'e-mail: info@codestone.nl<br/>KvK: 34381941<br/>BTW nr: NL002056452B90<br/><a href="/algemene-voorwaarden-codestone.pdf" class="btn btn-lg btn-outline"><i class="fa fa-download"></i> Terms &amp; Conditions (in Dutch)</a>'
 
 # Build settings
 markdown: kramdown
